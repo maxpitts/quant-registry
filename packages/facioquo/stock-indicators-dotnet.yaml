@@ -1,0 +1,11 @@
+name: "stock-indicators-dotnet"
+namespace: "facioquo"
+version: "0.0.0"
+kind: "harness"
+summary: "Stock Indicators for .NET is a C# NuGet package that transforms raw equity, commodity, forex, or cryptocurrency financia"
+repo: "https://github.com/facioquo/stock-indicators-dotnet"
+license: "Apache-2.0"
+asset_classes: ["crypto", "fx"]
+unaffiliated: true
+submitted_by: "maxpitts"
+description: "Indexed automatically from GitHub topic search. Not submitted by its author and not endorsed by anyone. Kind and asset classes are inferred from the repo's own description and topics, so they may be wrong — open a PR to correct them."

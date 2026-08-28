@@ -123,5 +123,25 @@ run("author-submitted still needs a SHA", UNAFF.replace("unaffiliated: true","un
     want_err="40-char SHA")
 
 
+print("\nclaim rule is about claims, not vocabulary")
+CLAIM = """
+name: thing
+namespace: acme
+version: 1.0.0
+kind: harness
+summary: A summary.
+repo: https://github.com/acme/x
+license: MIT
+asset_classes: [equity]
+unaffiliated: true
+submitted_by: maxpitts
+description: {d}
+"""
+run("honest 'not endorsed by anyone' allowed", CLAIM.format(d='"Not submitted by its author and not endorsed by anyone."'), want_ok=True)
+run("honest 'has not been audited' allowed",   CLAIM.format(d='"This has not been audited by anyone."'), want_ok=True)
+run("real 'endorsed by X' rejected",           CLAIM.format(d='"Endorsed by Goldman Sachs."'), want_err="verifies nothing")
+run("real 'independently audited' rejected",   CLAIM.format(d='"Results independently audited."'), want_err="verifies nothing")
+
+
 print("\n" + ("ALL PASS" if not fails else f"{len(fails)} FAILURES: {fails}"))
 sys.exit(1 if fails else 0)

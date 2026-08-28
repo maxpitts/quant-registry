@@ -1,0 +1,11 @@
+name: "stock"
+namespace: "myhhub"
+version: "0.0.0"
+kind: "harness"
+summary: "stock股票.获取股票数据,计算股票指标,筹码分布,识别股票形态,综合选股,选股策略,股票验证回测,股票自动交易,支持PC及移动设备。"
+repo: "https://github.com/myhhub/stock"
+license: "Apache-2.0"
+asset_classes: ["equity"]
+unaffiliated: true
+submitted_by: "maxpitts"
+description: "Indexed automatically from GitHub topic search. Not submitted by its author and not endorsed by anyone. Kind and asset classes are inferred from the repo's own description and topics, so they may be wrong — open a PR to correct them."

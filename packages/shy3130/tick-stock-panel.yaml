@@ -1,0 +1,11 @@
+name: "tick-stock-panel"
+namespace: "shy3130"
+version: "0.0.0"
+kind: "harness"
+summary: "TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | 基于 TickFlow 数据源 | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源 ,非第三方官方项目"
+repo: "https://github.com/shy3130/tick-stock-panel"
+license: "MIT"
+asset_classes: ["equity"]
+unaffiliated: true
+submitted_by: "maxpitts"
+description: "Indexed automatically from GitHub topic search. Not submitted by its author and not endorsed by anyone. Kind and asset classes are inferred from the repo's own description and topics, so they may be wrong — open a PR to correct them."

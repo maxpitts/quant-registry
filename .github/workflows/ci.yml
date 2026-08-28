@@ -22,3 +22,5 @@ jobs:
         run: python3 validate.py packages/
       - name: Self-test the validator
         run: python3 tests/test_validate.py
+      - name: Self-test the discovery filters
+        run: python3 tests/test_discover.py

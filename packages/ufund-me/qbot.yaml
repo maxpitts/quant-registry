@@ -1,0 +1,11 @@
+name: "qbot"
+namespace: "ufund-me"
+version: "0.0.0"
+kind: "harness"
+summary: "AI 自动量化交易机器人(完全本地部署) AI-powered Quantitative Investment Research Platform. 📃 online docs: https://ufund-"
+repo: "https://github.com/UFund-Me/Qbot"
+license: "MIT"
+asset_classes: ["crypto"]
+unaffiliated: true
+submitted_by: "maxpitts"
+description: "Indexed automatically from GitHub topic search. Not submitted by its author and not endorsed by anyone. Kind and asset classes are inferred from the repo's own description and topics, so they may be wrong — open a PR to correct them."

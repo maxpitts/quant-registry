@@ -1,0 +1,11 @@
+name: "daily-stock-analysis"
+namespace: "zhulinsen"
+version: "0.0.0"
+kind: "data"
+summary: "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source mark"
+repo: "https://github.com/ZhuLinsen/daily_stock_analysis"
+license: "MIT"
+asset_classes: ["equity"]
+unaffiliated: true
+submitted_by: "maxpitts"
+description: "Indexed automatically from GitHub topic search. Not submitted by its author and not endorsed by anyone. Kind and asset classes are inferred from the repo's own description and topics, so they may be wrong — open a PR to correct them."

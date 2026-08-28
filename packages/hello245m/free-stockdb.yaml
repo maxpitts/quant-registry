@@ -1,0 +1,11 @@
+name: "free-stockdb"
+namespace: "hello245m"
+version: "0.0.0"
+kind: "harness"
+summary: "面向 A 股日K、分钟K与ETF分钟数据的本地量化引擎，集成增量同步、本地缓存、复权、批量查询、回测与指标计算。"
+repo: "https://github.com/hello245m/free-stockdb"
+license: "MIT"
+asset_classes: ["equity"]
+unaffiliated: true
+submitted_by: "maxpitts"
+description: "Indexed automatically from GitHub topic search. Not submitted by its author and not endorsed by anyone. Kind and asset classes are inferred from the repo's own description and topics, so they may be wrong — open a PR to correct them."

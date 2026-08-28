@@ -1,0 +1,11 @@
+name: "investing-algorithm-framework"
+namespace: "coding-kitties"
+version: "0.0.0"
+kind: "harness"
+summary: "Framework for quantitative trading. Complete framework for development, backtesting, and deploying automated trading alg"
+repo: "https://github.com/coding-kitties/investing-algorithm-framework"
+license: "Apache-2.0"
+asset_classes: ["crypto"]
+unaffiliated: true
+submitted_by: "maxpitts"
+description: "Indexed automatically from GitHub topic search. Not submitted by its author and not endorsed by anyone. Kind and asset classes are inferred from the repo's own description and topics, so they may be wrong — open a PR to correct them."

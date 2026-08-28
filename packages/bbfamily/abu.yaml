@@ -1,0 +1,11 @@
+name: "abu"
+namespace: "bbfamily"
+version: "0.0.0"
+kind: "model"
+summary: "阿布量化交易系统(股票，期权，期货，比特币，机器学习) 基于python的开源量化交易，量化投资架构"
+repo: "https://github.com/bbfamily/abu"
+license: "GPL-3.0"
+asset_classes: ["crypto"]
+unaffiliated: true
+submitted_by: "maxpitts"
+description: "Indexed automatically from GitHub topic search. Not submitted by its author and not endorsed by anyone. Kind and asset classes are inferred from the repo's own description and topics, so they may be wrong — open a PR to correct them."

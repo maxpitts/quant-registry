@@ -1,0 +1,11 @@
+name: "qf-lib"
+namespace: "quarkfin"
+version: "0.0.0"
+kind: "harness"
+summary: "Modular Python library that provides an advanced event driven backtester and a set of high quality tools for quantitativ"
+repo: "https://github.com/quarkfin/qf-lib"
+license: "Apache-2.0"
+asset_classes: ["crypto", "future"]
+unaffiliated: true
+submitted_by: "maxpitts"
+description: "Indexed automatically from GitHub topic search. Not submitted by its author and not endorsed by anyone. Kind and asset classes are inferred from the repo's own description and topics, so they may be wrong — open a PR to correct them."

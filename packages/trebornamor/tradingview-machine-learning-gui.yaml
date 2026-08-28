@@ -1,0 +1,11 @@
+name: "tradingview-machine-learning-gui"
+namespace: "trebornamor"
+version: "0.0.0"
+kind: "harness"
+summary: "HyperView is a terminal-first TradingView strategy lab for downloading market data, backtesting Python strategies with P"
+repo: "https://github.com/TreborNamor/TradingView-Machine-Learning-GUI"
+license: "MIT"
+asset_classes: ["equity"]
+unaffiliated: true
+submitted_by: "maxpitts"
+description: "Indexed automatically from GitHub topic search. Not submitted by its author and not endorsed by anyone. Kind and asset classes are inferred from the repo's own description and topics, so they may be wrong — open a PR to correct them."

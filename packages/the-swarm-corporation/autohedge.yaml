@@ -1,0 +1,11 @@
+name: "autohedge"
+namespace: "the-swarm-corporation"
+version: "0.0.0"
+kind: "risk"
+summary: "Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automa"
+repo: "https://github.com/The-Swarm-Corporation/AutoHedge"
+license: "MIT"
+asset_classes: ["equity"]
+unaffiliated: true
+submitted_by: "maxpitts"
+description: "Indexed automatically from GitHub topic search. Not submitted by its author and not endorsed by anyone. Kind and asset classes are inferred from the repo's own description and topics, so they may be wrong — open a PR to correct them."

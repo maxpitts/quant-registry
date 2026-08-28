@@ -99,10 +99,17 @@ def check(path: str) -> list[str]:
             bad(f"unknown timeframe {t!r}; allowed {sorted(TIMEFRAMES)}")
 
     blob = " ".join(str(d.get(k, "")) for k in ("summary", "description"))
-    m = FORBIDDEN.search(blob)
-    if m:
+    for m in FORBIDDEN.finditer(blob):
+        # The rule is about CLAIMS, not vocabulary. "not endorsed by anyone" is exactly the kind
+        # of honest disclaimer this registry wants, and an earlier version of this check rejected
+        # its own auto-generated manifests for containing the word. Look back a short window for a
+        # negation before treating a match as an assertion.
+        lead = blob[max(0, m.start() - 22):m.start()].lower()
+        if re.search(r"\b(not|never|no|neither|nor|without|isn'?t|aren'?t|hasn'?t|haven'?t)\b[\s\w]{0,12}$", lead):
+            continue
         bad(f"claims external validation ({m.group(0)!r}) — the registry verifies nothing "
             f"and manifests may not imply that it does")
+        break
 
     # ---- the performance rules: every number carries its provenance ----------------------
     p = d.get("performance")

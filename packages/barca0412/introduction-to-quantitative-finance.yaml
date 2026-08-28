@@ -1,0 +1,11 @@
+name: "introduction-to-quantitative-finance"
+namespace: "barca0412"
+version: "0.0.0"
+kind: "harness"
+summary: "AI+金融（量化）：1.多因子股票量化框架开源教程 2.学界和业界的经典资料收录 3.AI + 金融的相关工作，包括LLM, Agent, benchmark(evaluation), etc."
+repo: "https://github.com/Barca0412/Introduction-to-Quantitative-Finance"
+license: "MIT"
+asset_classes: ["equity"]
+unaffiliated: true
+submitted_by: "maxpitts"
+description: "Indexed automatically from GitHub topic search. Not submitted by its author and not endorsed by anyone. Kind and asset classes are inferred from the repo's own description and topics, so they may be wrong — open a PR to correct them."

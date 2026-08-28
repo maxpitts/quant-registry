@@ -71,3 +71,21 @@ Registry code MIT; the index is CC0. Each package is under its own licence, in i
 
 Nothing in this registry is investment advice, and nothing in it has been tested by anyone but its
 author. Trading involves substantial risk of loss.
+
+## Filling the registry
+
+`discover.py` searches GitHub topics and writes third-party manifests for what survives its
+filters. It exists because star count is a bad proxy for "is this a package" — the top ten results
+for `quantitative-finance` include two curated link lists (29k stars), a book's companion notebooks
+(20k), and an LLM wrapper (64k). None is installable.
+
+```bash
+python3 discover.py --dry-run          # show what it would add, and every rejection with a reason
+python3 discover.py --min-stars 500    # write the manifests
+python3 validate.py packages/          # always, before committing
+```
+
+Hard rejections: no identifiable licence (including GitHub's `NOASSERTION`), forks, archived repos,
+curated link lists, book and course companions, and anything with no push in a year. `kind` and
+`asset_classes` are inferred from the repo's own description and topics — inference is approximate
+and every generated manifest says so, so corrections are a one-line PR.

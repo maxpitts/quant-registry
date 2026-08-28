@@ -1,0 +1,11 @@
+name: "eigenledger"
+namespace: "santoshlite"
+version: "0.0.0"
+kind: "harness"
+summary: "An Open Source Portfolio Backtesting Engine for Everyone | 面向所有人的开源投资组合回测引擎"
+repo: "https://github.com/santoshlite/EigenLedger"
+license: "Apache-2.0"
+asset_classes: ["future"]
+unaffiliated: true
+submitted_by: "maxpitts"
+description: "Indexed automatically from GitHub topic search. Not submitted by its author and not endorsed by anyone. Kind and asset classes are inferred from the repo's own description and topics, so they may be wrong — open a PR to correct them."

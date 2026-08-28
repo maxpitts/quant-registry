@@ -1,0 +1,11 @@
+name: "a-stock-data"
+namespace: "simonlin1212"
+version: "0.0.0"
+kind: "harness"
+summary: "A股全栈数据工具包 · 十一层架构 · 54端点 · 19数据源 · 零鉴权 | Full-stack China A-share data toolkit for AI agents — 11 layers, 54 endpoints,"
+repo: "https://github.com/simonlin1212/a-stock-data"
+license: "Apache-2.0"
+asset_classes: ["equity"]
+unaffiliated: true
+submitted_by: "maxpitts"
+description: "Indexed automatically from GitHub topic search. Not submitted by its author and not endorsed by anyone. Kind and asset classes are inferred from the repo's own description and topics, so they may be wrong — open a PR to correct them."

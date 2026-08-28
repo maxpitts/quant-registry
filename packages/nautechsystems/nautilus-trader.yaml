@@ -1,15 +1,12 @@
-name: nautilus-trader
-namespace: nautechsystems
-version: 1.222.0
-kind: execution
-summary: Production-grade event-driven trading engine in Rust with a Python strategy layer.
-repo: https://github.com/nautechsystems/nautilus_trader
-license: LGPL-3.0
-asset_classes: [equity, future, fx, crypto, option]
-timeframes: [tick, 1m, 1h, 1d]
+name: "nautilus-trader"
+namespace: "nautechsystems"
+version: "1.222.0"
+kind: "execution"
+summary: "Production-grade event-driven trading engine in Rust with a Python strategy layer."
+repo: "https://github.com/nautechsystems/nautilus_trader"
+license: "LGPL-3.0"
+asset_classes: ["equity", "future", "fx", "crypto", "option"]
+timeframes: ["tick", "1m", "1h", "1d"]
 unaffiliated: true
-submitted_by: maxpitts
-description: >
-  Multi-asset, multi-venue execution with the same code path for backtest and live, which is the
-  hard part of execution infrastructure and the reason it belongs in an index like this.
-  Listed by the registry, not submitted by its author.
+submitted_by: "maxpitts"
+description: "Multi-asset, multi-venue execution with the same code path for backtest and live, which is the hard part of execution infrastructure and the reason it belongs in an index like this. Listed by the registry, not submitted by its author.\n"

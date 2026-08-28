@@ -1,0 +1,11 @@
+name: "quant-trading"
+namespace: "je-suis-tm"
+version: "0.0.0"
+kind: "execution"
+summary: "Python quantitative trading strategies including VIX Calculator, Pattern Recognition, Commodity Trading Advisor, Monte C"
+repo: "https://github.com/je-suis-tm/quant-trading"
+license: "Apache-2.0"
+asset_classes: ["option"]
+unaffiliated: true
+submitted_by: "maxpitts"
+description: "Indexed automatically from GitHub topic search. Not submitted by its author and not endorsed by anyone. Kind and asset classes are inferred from the repo's own description and topics, so they may be wrong — open a PR to correct them."

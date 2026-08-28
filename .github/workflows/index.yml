@@ -20,6 +20,12 @@ jobs:
       - run: pip install pyyaml
       - run: python3 validate.py packages/
       - run: python3 build_index.py
+      - name: Attach public GitHub facts (stars, last push, default branch)
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        # Done here, once, authenticated — not in the browser. api.github.com allows 60 calls
+        # per hour per VIEWER IP, so a client-side version breaks on the first busy day.
+        run: python3 enrich.py index.json
       - name: Commit
         run: |
           set -euo pipefail

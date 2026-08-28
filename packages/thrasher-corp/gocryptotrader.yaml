@@ -1,0 +1,11 @@
+name: "gocryptotrader"
+namespace: "thrasher-corp"
+version: "0.0.0"
+kind: "execution"
+summary: "A cryptocurrency trading bot and framework supporting multiple exchanges written in Golang."
+repo: "https://github.com/thrasher-corp/gocryptotrader"
+license: "MIT"
+asset_classes: ["crypto"]
+unaffiliated: true
+submitted_by: "maxpitts"
+description: "Indexed automatically from GitHub topic search. Not submitted by its author and not endorsed by anyone. Kind and asset classes are inferred from the repo's own description and topics, so they may be wrong — open a PR to correct them."
