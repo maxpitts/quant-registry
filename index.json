@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-28T05:24:34+00:00",
+ "generated_at": "2026-08-28T05:41:17+00:00",
  "n": 50,
  "by_kind": {
   "data": 1,
@@ -34,7 +34,34 @@
    "submitted_by": "maxpitts",
    "performance": null,
    "verified_by_registry": false,
-   "manifest": "packages/ai4finance-foundation/finrl.yaml"
+   "manifest": "packages/ai4finance-foundation/finrl.yaml",
+   "gh": {
+    "slug": "AI4Finance-Foundation/FinRL",
+    "stars": 16126,
+    "forks": 3483,
+    "open_issues": 309,
+    "pushed_at": "2026-07-13T23:02:18Z",
+    "default_branch": "master",
+    "topics": [
+     "algorithmic-trading",
+     "deep-reinforcement-learning",
+     "drl-algorithms",
+     "drl-framework",
+     "drl-trading-agents",
+     "finance",
+     "fintech",
+     "multi-agent-learning",
+     "openai-gym",
+     "pythorch",
+     "stock-markets",
+     "stock-trading",
+     "tensorflow2",
+     "trading-tasks"
+    ],
+    "archived": false,
+    "description": "FinRL\u00ae:  Financial Reinforcement Learning. \ud83d\udd25",
+    "language": "Jupyter Notebook"
+   }
   },
   {
    "id": "atilaahmettaner/tradingview-mcp",
@@ -57,7 +84,33 @@
    "submitted_by": "maxpitts",
    "performance": null,
    "verified_by_registry": false,
-   "manifest": "packages/atilaahmettaner/tradingview-mcp.yaml"
+   "manifest": "packages/atilaahmettaner/tradingview-mcp.yaml",
+   "gh": {
+    "slug": "atilaahmettaner/tradingview-mcp",
+    "stars": 4265,
+    "forks": 911,
+    "open_issues": 12,
+    "pushed_at": "2026-08-24T21:40:11Z",
+    "default_branch": "main",
+    "topics": [
+     "claude-desktop",
+     "cryptocurrency",
+     "futures",
+     "market-data",
+     "mcp-server",
+     "mcp-tools",
+     "model-context-protocol",
+     "openclaw",
+     "stock-market",
+     "technical-analysis",
+     "trading-mcp",
+     "trading-strategies",
+     "tradingview"
+    ],
+    "archived": false,
+    "description": "TradingView MCP server \u2014 real-time market data, technical analysis, screeners & backtesting for Claude, ChatGPT, Cursor & any MCP client. Stocks, crypto, forex & futures across global exchanges. Hosted or self-host.",
+    "language": "Python"
+   }
   },
   {
    "id": "barca0412/introduction-to-quantitative-finance",
@@ -78,7 +131,31 @@
    "submitted_by": "maxpitts",
    "performance": null,
    "verified_by_registry": false,
-   "manifest": "packages/barca0412/introduction-to-quantitative-finance.yaml"
+   "manifest": "packages/barca0412/introduction-to-quantitative-finance.yaml",
+   "gh": {
+    "slug": "Barca0412/Introduction-to-Quantitative-Finance",
+    "stars": 1700,
+    "forks": 180,
+    "open_issues": 3,
+    "pushed_at": "2026-08-28T05:20:11Z",
+    "default_branch": "main",
+    "topics": [
+     "agent",
+     "ai4fin",
+     "finance",
+     "investment",
+     "llm",
+     "llm4fin",
+     "quant",
+     "quantitative-finance",
+     "quantitative-research",
+     "quantitative-trading",
+     "trading"
+    ],
+    "archived": false,
+    "description": "AI+\u91d1\u878d\uff08\u91cf\u5316\uff09\uff1a1.\u591a\u56e0\u5b50\u80a1\u7968\u91cf\u5316\u6846\u67b6\u5f00\u6e90\u6559\u7a0b 2.\u5b66\u754c\u548c\u4e1a\u754c\u7684\u7ecf\u5178\u8d44\u6599\u6536\u5f55 3.AI + \u91d1\u878d\u7684\u76f8\u5173\u5de5\u4f5c\uff0c\u5305\u62ecLLM, Agent, benchmark(evaluation), etc.",
+    "language": "Python"
+   }
   },
   {
    "id": "barter-rs/barter-rs",
@@ -99,7 +176,40 @@
    "submitted_by": "maxpitts",
    "performance": null,
    "verified_by_registry": false,
-   "manifest": "packages/barter-rs/barter-rs.yaml"
+   "manifest": "packages/barter-rs/barter-rs.yaml",
+   "gh": {
+    "slug": "barter-rs/barter-rs",
+    "stars": 2245,
+    "forks": 364,
+    "open_issues": 89,
+    "pushed_at": "2026-08-24T07:23:22Z",
+    "default_branch": "main",
+    "topics": [
+     "algo-trading",
+     "algorithmic-trading",
+     "algotrading",
+     "backtesting",
+     "backtesting-engine",
+     "backtesting-frameworks",
+     "backtesting-trading-strategies",
+     "crypto-bot",
+     "event-driven",
+     "hft",
+     "high-frequency-trading",
+     "market-making",
+     "quant",
+     "quantitative-finance",
+     "rust",
+     "trading-bot",
+     "trading-platform",
+     "trading-simulator",
+     "trading-strategies",
+     "trading-systems"
+    ],
+    "archived": false,
+    "description": "Open-source Rust framework for building event-driven live-trading & backtesting systems",
+    "language": "Rust"
+   }
   },
   {
    "id": "bbfamily/abu",
@@ -120,7 +230,31 @@
    "submitted_by": "maxpitts",
    "performance": null,
    "verified_by_registry": false,
-   "manifest": "packages/bbfamily/abu.yaml"
+   "manifest": "packages/bbfamily/abu.yaml",
+   "gh": {
+    "slug": "bbfamily/abu",
+    "stars": 18248,
+    "forks": 4675,
+    "open_issues": 6,
+    "pushed_at": "2026-01-24T09:00:29Z",
+    "default_branch": "master",
+    "topics": [
+     "algorithmic-trading",
+     "bitcoin",
+     "machine-learning",
+     "matplotlib",
+     "numpy",
+     "pandas",
+     "quant",
+     "quantitative-trading",
+     "stock",
+     "trade",
+     "trading"
+    ],
+    "archived": false,
+    "description": "\u963f\u5e03\u91cf\u5316\u4ea4\u6613\u7cfb\u7edf(\u80a1\u7968\uff0c\u671f\u6743\uff0c\u671f\u8d27\uff0c\u6bd4\u7279\u5e01\uff0c\u673a\u5668\u5b66\u4e60) \u57fa\u4e8epython\u7684\u5f00\u6e90\u91cf\u5316\u4ea4\u6613\uff0c\u91cf\u5316\u6295\u8d44\u67b6\u6784",
+    "language": "Python"
+   }
   },
   {
    "id": "charliedream1/ai-quant-trade",
@@ -141,7 +275,31 @@
    "submitted_by": "maxpitts",
    "performance": null,
    "verified_by_registry": false,
-   "manifest": "packages/charliedream1/ai-quant-trade.yaml"
+   "manifest": "packages/charliedream1/ai-quant-trade.yaml",
+   "gh": {
+    "slug": "charliedream1/ai_quant_trade",
+    "stars": 6418,
+    "forks": 1208,
+    "open_issues": 9,
+    "pushed_at": "2026-08-16T07:00:09Z",
+    "default_branch": "master",
+    "topics": [
+     "cpp",
+     "jupyter-notebook",
+     "keras",
+     "mlflow",
+     "python",
+     "pytorch",
+     "sklearn",
+     "tensorflow",
+     "trading-bot",
+     "trading-platform",
+     "trading-strategies"
+    ],
+    "archived": false,
+    "description": "\u80a1\u7968AI\u64cd\u76d8\u624b\uff1a\u4ece\u5b66\u4e60\u3001\u6a21\u62df\u5230\u5b9e\u76d8\uff0c\u4e00\u7ad9\u5f0f\u5e73\u53f0\u3002\u5305\u542b\u80a1\u7968\u77e5\u8bc6\u3001\u7b56\u7565\u5b9e\u4f8b\u3001\u5927\u6a21\u578b\u3001\u56e0\u5b50\u6316\u6398\u3001\u4f20\u7edf\u7b56\u7565\u3001\u673a\u5668\u5b66\u4e60\u3001\u6df1\u5ea6\u5b66\u4e60\u3001\u5f3a\u5316\u5b66\u4e60\u3001\u56fe\u7f51\u7edc\u3001\u9ad8\u9891\u4ea4\u6613\u3001C++\u90e8\u7f72\u548c\u805a\u5bbd\u5b9e\u4f8b\u4ee3\u7801\u7b49\uff0c\u53ef\u4ee5\u65b9\u4fbf\u5b66\u4e60\u3001\u6a21\u62df\u53ca\u5b9e\u76d8\u4ea4\u6613",
+    "language": "Jupyter Notebook"
+   }
   },
   {
    "id": "coding-kitties/investing-algorithm-framework",
@@ -162,7 +320,34 @@
    "submitted_by": "maxpitts",
    "performance": null,
    "verified_by_registry": false,
-   "manifest": "packages/coding-kitties/investing-algorithm-framework.yaml"
+   "manifest": "packages/coding-kitties/investing-algorithm-framework.yaml",
+   "gh": {
+    "slug": "coding-kitties/investing-algorithm-framework",
+    "stars": 1916,
+    "forks": 277,
+    "open_issues": 71,
+    "pushed_at": "2026-08-27T22:16:13Z",
+    "default_branch": "main",
+    "topics": [
+     "algorithmic-trading",
+     "backtesting",
+     "backtesting-trading-strategies",
+     "cryptocurrency",
+     "python",
+     "quantitative",
+     "quantitative-analysis",
+     "quantitative-finance",
+     "quantitative-trading",
+     "trade",
+     "trading",
+     "trading-bot",
+     "trading-bots",
+     "trading-strategies"
+    ],
+    "archived": false,
+    "description": "Framework for quantitative trading. Complete framework for development, backtesting, and deploying automated trading algorithms and trading bots.",
+    "language": "Python"
+   }
   },
   {
    "id": "cuemacro/finmarketpy",
@@ -183,7 +368,23 @@
    "submitted_by": "maxpitts",
    "performance": null,
    "verified_by_registry": false,
-   "manifest": "packages/cuemacro/finmarketpy.yaml"
+   "manifest": "packages/cuemacro/finmarketpy.yaml",
+   "gh": {
+    "slug": "cuemacro/finmarketpy",
+    "stars": 3806,
+    "forks": 523,
+    "open_issues": 38,
+    "pushed_at": "2026-04-16T09:29:35Z",
+    "default_branch": "master",
+    "topics": [
+     "backtesting-trading-strategies",
+     "python",
+     "trading-strategies"
+    ],
+    "archived": false,
+    "description": "Python library for backtesting trading strategies & analyzing financial markets (formerly pythalesians)",
+    "language": "Python"
+   }
   },
   {
    "id": "dcajasn/riskfolio-lib",
@@ -204,7 +405,40 @@
    "submitted_by": "maxpitts",
    "performance": null,
    "verified_by_registry": false,
-   "manifest": "packages/dcajasn/riskfolio-lib.yaml"
+   "manifest": "packages/dcajasn/riskfolio-lib.yaml",
+   "gh": {
+    "slug": "dcajasn/Riskfolio-Lib",
+    "stars": 4464,
+    "forks": 704,
+    "open_issues": 6,
+    "pushed_at": "2026-08-18T17:08:34Z",
+    "default_branch": "master",
+    "topics": [
+     "asset-allocation",
+     "convex-optimization",
+     "cvar-optimization",
+     "cvxpy",
+     "drawdown-model",
+     "duration-matching",
+     "efficient-frontier",
+     "finance",
+     "investment",
+     "investment-analysis",
+     "portfolio-management",
+     "portfolio-optimization",
+     "principal-components-regression",
+     "quantitative-finance",
+     "risk-contribution",
+     "risk-factors",
+     "risk-parity",
+     "sharpe-ratio",
+     "stepwise-regression",
+     "trading"
+    ],
+    "archived": false,
+    "description": "Portfolio Optimization in Python",
+    "language": "C++"
+   }
   },
   {
    "id": "facioquo/stock-indicators-dotnet",
@@ -226,7 +460,37 @@
    "submitted_by": "maxpitts",
    "performance": null,
    "verified_by_registry": false,
-   "manifest": "packages/facioquo/stock-indicators-dotnet.yaml"
+   "manifest": "packages/facioquo/stock-indicators-dotnet.yaml",
+   "gh": {
+    "slug": "facioquo/stock-indicators-dotnet",
+    "stars": 1236,
+    "forks": 275,
+    "open_issues": 74,
+    "pushed_at": "2026-08-26T02:03:12Z",
+    "default_branch": "main",
+    "topics": [
+     "algorithmic-trading",
+     "backtesting",
+     "cryptocurrency",
+     "forex",
+     "historical-quotes",
+     "indicator",
+     "indicators",
+     "nuget",
+     "package",
+     "quantitative-finance",
+     "stock",
+     "stock-analysis",
+     "stock-indicators",
+     "stock-market",
+     "stock-trading",
+     "technical-analysis",
+     "technical-indicators"
+    ],
+    "archived": false,
+    "description": "Stock Indicators for .NET is a C# NuGet package that transforms raw equity, commodity, forex, or cryptocurrency financial market price quotes into technical indicators and trading insights. You'll need this essential data in the investment tools that you're building for algorithmic trading, technical analysis, machine learning, or visual charting.",
+    "language": "C#"
+   }
   },
   {
    "id": "fasiondog/hikyuu",
@@ -247,7 +511,28 @@
    "submitted_by": "maxpitts",
    "performance": null,
    "verified_by_registry": false,
-   "manifest": "packages/fasiondog/hikyuu.yaml"
+   "manifest": "packages/fasiondog/hikyuu.yaml",
+   "gh": {
+    "slug": "fasiondog/hikyuu",
+    "stars": 3472,
+    "forks": 822,
+    "open_issues": 5,
+    "pushed_at": "2026-08-26T08:34:01Z",
+    "default_branch": "master",
+    "topics": [
+     "algorithms-trading",
+     "backtesting",
+     "finance",
+     "quant",
+     "stock",
+     "system-trading",
+     "trading",
+     "vestment"
+    ],
+    "archived": false,
+    "description": "Hikyuu Quant Framework \u57fa\u4e8eC++/Python\u7684\u8d85\u9ad8\u901f\u5f00\u6e90\u91cf\u5316\u4ea4\u6613\u7814\u7a76\u6846\u67b6\uff0c\u540c\u65f6\u53ef\u57fa\u4e8e\u7b56\u7565\u90e8\u4ef6\u8fdb\u884c\u8d44\u4ea7\u91cd\u7528\uff0c\u5feb\u901f\u7d2f\u79ef\u7b56\u7565\u8d44\u4ea7\u3002",
+    "language": "C++"
+   }
   },
   {
    "id": "freqtrade/freqtrade",
@@ -268,7 +553,29 @@
    "submitted_by": "maxpitts",
    "performance": null,
    "verified_by_registry": false,
-   "manifest": "packages/freqtrade/freqtrade.yaml"
+   "manifest": "packages/freqtrade/freqtrade.yaml",
+   "gh": {
+    "slug": "freqtrade/freqtrade",
+    "stars": 53740,
+    "forks": 11167,
+    "open_issues": 34,
+    "pushed_at": "2026-08-27T16:26:43Z",
+    "default_branch": "develop",
+    "topics": [
+     "algorithmic-trading",
+     "bitcoin",
+     "cryptocurrencies",
+     "cryptocurrency",
+     "freqtrade",
+     "python",
+     "telegram-bot",
+     "trade",
+     "trading-bot"
+    ],
+    "archived": false,
+    "description": "Free, open source crypto trading bot",
+    "language": "Python"
+   }
   },
   {
    "id": "freqtrade/freqtrade-strategies",
@@ -289,7 +596,26 @@
    "submitted_by": "maxpitts",
    "performance": null,
    "verified_by_registry": false,
-   "manifest": "packages/freqtrade/freqtrade-strategies.yaml"
+   "manifest": "packages/freqtrade/freqtrade-strategies.yaml",
+   "gh": {
+    "slug": "freqtrade/freqtrade-strategies",
+    "stars": 5405,
+    "forks": 1433,
+    "open_issues": 12,
+    "pushed_at": "2026-08-12T04:41:25Z",
+    "default_branch": "main",
+    "topics": [
+     "bitcoin",
+     "cryptocurrency",
+     "freqtrade-strategies",
+     "trading",
+     "trading-bot",
+     "trading-strategies"
+    ],
+    "archived": false,
+    "description": "Free trading strategies for Freqtrade bot",
+    "language": "Python"
+   }
   },
   {
    "id": "goldmansachs/gs-quant",
@@ -310,7 +636,25 @@
    "submitted_by": "maxpitts",
    "performance": null,
    "verified_by_registry": false,
-   "manifest": "packages/goldmansachs/gs-quant.yaml"
+   "manifest": "packages/goldmansachs/gs-quant.yaml",
+   "gh": {
+    "slug": "goldmansachs/gs-quant",
+    "stars": 12768,
+    "forks": 1722,
+    "open_issues": 68,
+    "pushed_at": "2026-08-26T13:29:05Z",
+    "default_branch": "master",
+    "topics": [
+     "derivatives",
+     "goldman-sachs",
+     "gs-quant",
+     "risk-management",
+     "trading-strategies"
+    ],
+    "archived": false,
+    "description": "Python toolkit for quantitative finance",
+    "language": "Python"
+   }
   },
   {
    "id": "goldspanlabs/optopsy",
@@ -331,7 +675,39 @@
    "submitted_by": "maxpitts",
    "performance": null,
    "verified_by_registry": false,
-   "manifest": "packages/goldspanlabs/optopsy.yaml"
+   "manifest": "packages/goldspanlabs/optopsy.yaml",
+   "gh": {
+    "slug": "goldspanlabs/optopsy",
+    "stars": 1463,
+    "forks": 223,
+    "open_issues": 17,
+    "pushed_at": "2026-06-30T17:46:49Z",
+    "default_branch": "main",
+    "topics": [
+     "algorithmic",
+     "algorithmic-trading",
+     "algorithmic-trading-engine",
+     "algorithmic-trading-library",
+     "backtest",
+     "backtesting",
+     "backtesting-frameworks",
+     "backtesting-trading-strategies",
+     "dataframe",
+     "option-chain",
+     "option-pricing",
+     "option-strategies",
+     "options",
+     "options-framework",
+     "options-spreads",
+     "options-strategies",
+     "options-trading",
+     "trade-options",
+     "trading"
+    ],
+    "archived": false,
+    "description": "A nimble options research and backtesting library for Python",
+    "language": "Python"
+   }
   },
   {
    "id": "google/tf-quant-finance",
@@ -352,7 +728,32 @@
    "submitted_by": "maxpitts",
    "performance": null,
    "verified_by_registry": false,
-   "manifest": "packages/google/tf-quant-finance.yaml"
+   "manifest": "packages/google/tf-quant-finance.yaml",
+   "gh": {
+    "slug": "google/tf-quant-finance",
+    "stars": 5483,
+    "forks": 694,
+    "open_issues": 42,
+    "pushed_at": "2026-08-06T22:18:59Z",
+    "default_branch": "master",
+    "topics": [
+     "finance",
+     "gpu",
+     "gpu-computing",
+     "high-performance",
+     "high-performance-computing",
+     "numerical-integration",
+     "numerical-methods",
+     "numerical-optimization",
+     "python",
+     "quantitative-finance",
+     "quantlib",
+     "tensorflow"
+    ],
+    "archived": false,
+    "description": "High-performance TensorFlow library for quantitative finance.",
+    "language": "Python"
+   }
   },
   {
    "id": "hello245m/free-stockdb",
@@ -373,7 +774,34 @@
    "submitted_by": "maxpitts",
    "performance": null,
    "verified_by_registry": false,
-   "manifest": "packages/hello245m/free-stockdb.yaml"
+   "manifest": "packages/hello245m/free-stockdb.yaml",
+   "gh": {
+    "slug": "hello245m/free-stockdb",
+    "stars": 2292,
+    "forks": 342,
+    "open_issues": 0,
+    "pushed_at": "2026-08-27T15:11:37Z",
+    "default_branch": "main",
+    "topics": [
+     "a-share",
+     "algorithmic-trading",
+     "backtesting",
+     "china-stock-market",
+     "kline",
+     "local-first",
+     "market-data",
+     "mcp",
+     "quant-research",
+     "quantitative-finance",
+     "stock-data",
+     "stock-market",
+     "technical-analysis",
+     "time-series-database"
+    ],
+    "archived": false,
+    "description": "\u9762\u5411 A \u80a1\u65e5K\u3001\u5206\u949fK\u4e0eETF\u5206\u949f\u6570\u636e\u7684\u672c\u5730\u91cf\u5316\u5f15\u64ce\uff0c\u96c6\u6210\u589e\u91cf\u540c\u6b65\u3001\u672c\u5730\u7f13\u5b58\u3001\u590d\u6743\u3001\u6279\u91cf\u67e5\u8be2\u3001\u56de\u6d4b\u4e0e\u6307\u6807\u8ba1\u7b97\u3002",
+    "language": "HTML"
+   }
   },
   {
    "id": "hkuds/vibe-trading",
@@ -394,7 +822,30 @@
    "submitted_by": "maxpitts",
    "performance": null,
    "verified_by_registry": false,
-   "manifest": "packages/hkuds/vibe-trading.yaml"
+   "manifest": "packages/hkuds/vibe-trading.yaml",
+   "gh": {
+    "slug": "HKUDS/Vibe-Trading",
+    "stars": 31916,
+    "forks": 5208,
+    "open_issues": 25,
+    "pushed_at": "2026-08-27T07:02:29Z",
+    "default_branch": "main",
+    "topics": [
+     "ai-agent",
+     "algorithmic-trading",
+     "backtesting",
+     "fintech",
+     "llm",
+     "mcp",
+     "multi-agent",
+     "python",
+     "quantitative-finance",
+     "trading"
+    ],
+    "archived": false,
+    "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+    "language": "Python"
+   }
   },
   {
    "id": "hosseinmoein/dataframe",
@@ -415,7 +866,37 @@
    "submitted_by": "maxpitts",
    "performance": null,
    "verified_by_registry": false,
-   "manifest": "packages/hosseinmoein/dataframe.yaml"
+   "manifest": "packages/hosseinmoein/dataframe.yaml",
+   "gh": {
+    "slug": "hosseinmoein/DataFrame",
+    "stars": 2981,
+    "forks": 359,
+    "open_issues": 1,
+    "pushed_at": "2026-08-27T18:50:29Z",
+    "default_branch": "master",
+    "topics": [
+     "ai",
+     "cpp",
+     "data-analysis",
+     "data-science",
+     "dataframe",
+     "financial-data-analysis",
+     "financial-engineering",
+     "large-data",
+     "machine-learning",
+     "multidimensional-data",
+     "numerical-analysis",
+     "statistical",
+     "statistical-analysis",
+     "tensor",
+     "tensorboard",
+     "trading-algorithms",
+     "trading-strategies"
+    ],
+    "archived": false,
+    "description": "C++ DataFrame for statistical, financial, and ML analysis in modern C++",
+    "language": "C++"
+   }
   },
   {
    "id": "hummingbot/hummingbot",
@@ -439,7 +920,39 @@
    "submitted_by": "maxpitts",
    "performance": null,
    "verified_by_registry": false,
-   "manifest": "packages/hummingbot/hummingbot.yaml"
+   "manifest": "packages/hummingbot/hummingbot.yaml",
+   "gh": {
+    "slug": "hummingbot/hummingbot",
+    "stars": 19673,
+    "forks": 4874,
+    "open_issues": 151,
+    "pushed_at": "2026-08-27T19:32:19Z",
+    "default_branch": "master",
+    "topics": [
+     "ai-agents",
+     "algotrading",
+     "arbitrage",
+     "backtesting",
+     "binance",
+     "bitcoin",
+     "crypto",
+     "cryptocurrency",
+     "defi",
+     "ethereum",
+     "hft",
+     "hyperliquid",
+     "market-making",
+     "orderbook",
+     "python",
+     "quantitative-finance",
+     "solana",
+     "trading",
+     "trading-stategy"
+    ],
+    "archived": false,
+    "description": "Open source software that helps you create and deploy high-frequency crypto trading bots",
+    "language": "Python"
+   }
   },
   {
    "id": "je-suis-tm/quant-trading",
@@ -460,7 +973,40 @@
    "submitted_by": "maxpitts",
    "performance": null,
    "verified_by_registry": false,
-   "manifest": "packages/je-suis-tm/quant-trading.yaml"
+   "manifest": "packages/je-suis-tm/quant-trading.yaml",
+   "gh": {
+    "slug": "je-suis-tm/quant-trading",
+    "stars": 10633,
+    "forks": 1878,
+    "open_issues": 4,
+    "pushed_at": "2026-06-20T12:16:37Z",
+    "default_branch": "master",
+    "topics": [
+     "algorithmic-trading",
+     "bollinger-bands",
+     "commodity-trading",
+     "macd",
+     "momentum-strategy",
+     "momentum-trading-strategy",
+     "options-strategies",
+     "options-trading",
+     "pair-trading",
+     "quant",
+     "quantimental-analysis",
+     "quantitative-finance",
+     "quantitative-trading",
+     "quantitative-trading-strategies",
+     "statistical-arbitrage",
+     "trading-algorithms",
+     "trading-bot",
+     "trading-strategies",
+     "trading-strategy",
+     "trading-systems"
+    ],
+    "archived": false,
+    "description": "Python quantitative trading strategies including VIX Calculator, Pattern Recognition, Commodity Trading Advisor, Monte Carlo, Options Straddle, Shooting Star, London Breakout, Heikin-Ashi, Pair Trading, RSI, Bollinger Bands, Parabolic SAR, Dual Thrust, Awesome, MACD",
+    "language": "Python"
+   }
   },
   {
    "id": "jerbouma/financetoolkit",
@@ -481,7 +1027,40 @@
    "submitted_by": "maxpitts",
    "performance": null,
    "verified_by_registry": false,
-   "manifest": "packages/jerbouma/financetoolkit.yaml"
+   "manifest": "packages/jerbouma/financetoolkit.yaml",
+   "gh": {
+    "slug": "JerBouma/FinanceToolkit",
+    "stars": 5264,
+    "forks": 613,
+    "open_issues": 5,
+    "pushed_at": "2026-08-27T17:21:42Z",
+    "default_branch": "main",
+    "topics": [
+     "algorithmic-trading",
+     "equities",
+     "factor-analysis",
+     "finance",
+     "financial-analysis",
+     "financial-data",
+     "financial-statements",
+     "fundamental-analysis",
+     "fundamentals",
+     "market-data",
+     "mcp-server",
+     "performance-analysis",
+     "python",
+     "quantitative-analysis",
+     "quantitative-finance",
+     "risk-management",
+     "sector-analysis",
+     "stock-data",
+     "technical-analysis",
+     "valuation"
+    ],
+    "archived": false,
+    "description": "Transparent and Efficient Financial Analysis",
+    "language": "Python"
+   }
   },
   {
    "id": "jesse-ai/jesse",
@@ -502,7 +1081,38 @@
    "submitted_by": "maxpitts",
    "performance": null,
    "verified_by_registry": false,
-   "manifest": "packages/jesse-ai/jesse.yaml"
+   "manifest": "packages/jesse-ai/jesse.yaml",
+   "gh": {
+    "slug": "jesse-ai/jesse",
+    "stars": 8385,
+    "forks": 1213,
+    "open_issues": 16,
+    "pushed_at": "2026-08-27T10:00:21Z",
+    "default_branch": "master",
+    "topics": [
+     "algo-trading",
+     "algorithmic-trading",
+     "bitcoin",
+     "bot",
+     "crypto",
+     "crypto-bot",
+     "crypto-bot-trading",
+     "cryptocurrency",
+     "framework",
+     "jesse",
+     "python",
+     "quantitative-finance",
+     "quantitative-trading",
+     "trade",
+     "trading",
+     "trading-algorithms",
+     "trading-bot",
+     "trading-strategies"
+    ],
+    "archived": false,
+    "description": "An advanced crypto trading bot written in Python",
+    "language": "Python"
+   }
   },
   {
    "id": "kernc/backtesting-py",
@@ -523,7 +1133,40 @@
    "submitted_by": "maxpitts",
    "performance": null,
    "verified_by_registry": false,
-   "manifest": "packages/kernc/backtesting-py.yaml"
+   "manifest": "packages/kernc/backtesting-py.yaml",
+   "gh": {
+    "slug": "kernc/backtesting.py",
+    "stars": 8904,
+    "forks": 1521,
+    "open_issues": 67,
+    "pushed_at": "2026-08-05T12:39:16Z",
+    "default_branch": "master",
+    "topics": [
+     "algo-trading",
+     "algorithmic-trading",
+     "backtesting",
+     "backtesting-engine",
+     "backtesting-frameworks",
+     "backtesting-trading-strategies",
+     "finance",
+     "financial-markets",
+     "forex",
+     "forex-trading",
+     "framework",
+     "hacktoberfest",
+     "investing",
+     "investment",
+     "investment-strategies",
+     "stocks",
+     "trading",
+     "trading-algorithms",
+     "trading-simulator",
+     "trading-strategies"
+    ],
+    "archived": false,
+    "description": "\ud83d\udd0e \ud83d\udcc8 \ud83d\udc0d \ud83d\udcb0  Backtest trading strategies in Python.",
+    "language": "Python"
+   }
   },
   {
    "id": "lumiwealth/lumibot",
@@ -547,7 +1190,40 @@
    "submitted_by": "maxpitts",
    "performance": null,
    "verified_by_registry": false,
-   "manifest": "packages/lumiwealth/lumibot.yaml"
+   "manifest": "packages/lumiwealth/lumibot.yaml",
+   "gh": {
+    "slug": "Lumiwealth/lumibot",
+    "stars": 2001,
+    "forks": 381,
+    "open_issues": 83,
+    "pushed_at": "2026-08-26T03:58:44Z",
+    "default_branch": "dev",
+    "topics": [
+     "ai-agents",
+     "algorithmic-trading",
+     "alpaca",
+     "backtesting",
+     "broker",
+     "crypto-trading",
+     "finance",
+     "forex",
+     "fred",
+     "futures-trading",
+     "interactive-brokers",
+     "llm-agents",
+     "multi-agent",
+     "options-trading",
+     "python",
+     "quantitative-finance",
+     "sec-filings",
+     "stocks",
+     "technical-analysis",
+     "trading-bot"
+    ],
+    "archived": false,
+    "description": "Backtestable AI trading agents and Python algorithmic trading strategies for stocks, options, crypto, futures, forex, SEC filings, FRED macro data, and real brokers.",
+    "language": "Python"
+   }
   },
   {
    "id": "microsoft/qlib",
@@ -571,7 +1247,38 @@
    "submitted_by": "maxpitts",
    "performance": null,
    "verified_by_registry": false,
-   "manifest": "packages/microsoft/qlib.yaml"
+   "manifest": "packages/microsoft/qlib.yaml",
+   "gh": {
+    "slug": "microsoft/qlib",
+    "stars": 47996,
+    "forks": 7605,
+    "open_issues": 469,
+    "pushed_at": "2026-07-23T08:15:29Z",
+    "default_branch": "main",
+    "topics": [
+     "algorithmic-trading",
+     "auto-quant",
+     "deep-learning",
+     "finance",
+     "fintech",
+     "investment",
+     "machine-learning",
+     "paper",
+     "platform",
+     "python",
+     "quant",
+     "quant-dataset",
+     "quant-models",
+     "quantitative-finance",
+     "quantitative-trading",
+     "research",
+     "research-paper",
+     "stock-data"
+    ],
+    "archived": false,
+    "description": "Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R&D process.",
+    "language": "Python"
+   }
   },
   {
    "id": "myhhub/stock",
@@ -592,7 +1299,32 @@
    "submitted_by": "maxpitts",
    "performance": null,
    "verified_by_registry": false,
-   "manifest": "packages/myhhub/stock.yaml"
+   "manifest": "packages/myhhub/stock.yaml",
+   "gh": {
+    "slug": "myhhub/stock",
+    "stars": 14158,
+    "forks": 2923,
+    "open_issues": 10,
+    "pushed_at": "2026-04-02T02:26:35Z",
+    "default_branch": "master",
+    "topics": [
+     "backtest",
+     "backtesting",
+     "broker-trading-platform",
+     "cyq",
+     "distribution-of-chips",
+     "position-cost-distribution",
+     "quantitative",
+     "quantitative-finance",
+     "stock",
+     "stocks",
+     "strategies",
+     "strategy"
+    ],
+    "archived": false,
+    "description": "stock\u80a1\u7968.\u83b7\u53d6\u80a1\u7968\u6570\u636e,\u8ba1\u7b97\u80a1\u7968\u6307\u6807,\u7b79\u7801\u5206\u5e03,\u8bc6\u522b\u80a1\u7968\u5f62\u6001,\u7efc\u5408\u9009\u80a1,\u9009\u80a1\u7b56\u7565,\u80a1\u7968\u9a8c\u8bc1\u56de\u6d4b,\u80a1\u7968\u81ea\u52a8\u4ea4\u6613,\u652f\u6301PC\u53ca\u79fb\u52a8\u8bbe\u5907\u3002",
+    "language": "Python"
+   }
   },
   {
    "id": "nautechsystems/nautilus-trader",
@@ -622,7 +1354,33 @@
    "submitted_by": "maxpitts",
    "performance": null,
    "verified_by_registry": false,
-   "manifest": "packages/nautechsystems/nautilus-trader.yaml"
+   "manifest": "packages/nautechsystems/nautilus-trader.yaml",
+   "gh": {
+    "slug": "nautechsystems/nautilus_trader",
+    "stars": 27972,
+    "forks": 3612,
+    "open_issues": 114,
+    "pushed_at": "2026-08-28T05:12:23Z",
+    "default_branch": "develop",
+    "topics": [
+     "algorithmic-trading-engine",
+     "artificial-intelligence",
+     "crypto-trading",
+     "equity-trading",
+     "forex",
+     "futures-trading",
+     "machine-learning",
+     "options-trading",
+     "python",
+     "rust",
+     "sports-betting",
+     "trading",
+     "trading-platform"
+    ],
+    "archived": false,
+    "description": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
+    "language": "Rust"
+   }
   },
   {
    "id": "nkaz001/hftbacktest",
@@ -643,7 +1401,40 @@
    "submitted_by": "maxpitts",
    "performance": null,
    "verified_by_registry": false,
-   "manifest": "packages/nkaz001/hftbacktest.yaml"
+   "manifest": "packages/nkaz001/hftbacktest.yaml",
+   "gh": {
+    "slug": "nkaz001/hftbacktest",
+    "stars": 4540,
+    "forks": 882,
+    "open_issues": 16,
+    "pushed_at": "2025-12-23T15:57:58Z",
+    "default_branch": "master",
+    "topics": [
+     "algorithmic-trading",
+     "algotrading",
+     "backtesting",
+     "backtesting-engine",
+     "backtesting-trading-strategies",
+     "binance",
+     "crypto-bot",
+     "crypto-trading",
+     "hft",
+     "high-frequency-trading",
+     "limit-order-book",
+     "market-maker",
+     "market-making",
+     "orderbook",
+     "orderbook-tick-data",
+     "quantitative-trading",
+     "trading-algorithms",
+     "trading-simulator",
+     "trading-strategies",
+     "tradingbot"
+    ],
+    "archived": false,
+    "description": "Free, open source, a high frequency trading and market making backtesting and trading bot, which accounts for limit orders, queue positions, and latencies, utilizing full tick data for trades and order books(Level-2 and Level-3), with real-world crypto trading examples for Binance and Bybit",
+    "language": "Rust"
+   }
   },
   {
    "id": "openbyteinc/quantdinger",
@@ -665,7 +1456,40 @@
    "submitted_by": "maxpitts",
    "performance": null,
    "verified_by_registry": false,
-   "manifest": "packages/openbyteinc/quantdinger.yaml"
+   "manifest": "packages/openbyteinc/quantdinger.yaml",
+   "gh": {
+    "slug": "OpenByteInc/QuantDinger",
+    "stars": 11142,
+    "forks": 2336,
+    "open_issues": 58,
+    "pushed_at": "2026-08-27T09:58:55Z",
+    "default_branch": "main",
+    "topics": [
+     "agent",
+     "ai",
+     "alpaca",
+     "backtesting",
+     "binance",
+     "coinbase",
+     "crypto",
+     "exchange",
+     "finance",
+     "fintech",
+     "forex",
+     "mcp-server",
+     "python",
+     "quant",
+     "quantitative-finance",
+     "saas",
+     "stocks",
+     "strategy",
+     "trade",
+     "trading-toolkit"
+    ],
+    "archived": false,
+    "description": "AI quantitative trading platform for crypto, stocks, and forex with backtesting, live trading, market data, and multi-agent research.vibe-trading ,trading-agents,ai-trader,ai-trading",
+    "language": "Python"
+   }
   },
   {
    "id": "pyportfolio/pyportfolioopt",
@@ -686,7 +1510,32 @@
    "submitted_by": "maxpitts",
    "performance": null,
    "verified_by_registry": false,
-   "manifest": "packages/pyportfolio/pyportfolioopt.yaml"
+   "manifest": "packages/pyportfolio/pyportfolioopt.yaml",
+   "gh": {
+    "slug": "PyPortfolio/PyPortfolioOpt",
+    "stars": 5988,
+    "forks": 1172,
+    "open_issues": 112,
+    "pushed_at": "2026-07-07T21:18:14Z",
+    "default_branch": "main",
+    "topics": [
+     "algorithmic-trading",
+     "covariance",
+     "efficient-frontier",
+     "finance",
+     "financial-analysis",
+     "investing",
+     "investment",
+     "investment-analysis",
+     "portfolio-management",
+     "portfolio-optimization",
+     "python",
+     "quantitative-finance"
+    ],
+    "archived": false,
+    "description": "Financial portfolio optimization in python, including classical efficient frontier, Black-Litterman, Hierarchical Risk Parity",
+    "language": "Jupyter Notebook"
+   }
   },
   {
    "id": "quantconnect/lean",
@@ -708,7 +1557,35 @@
    "submitted_by": "maxpitts",
    "performance": null,
    "verified_by_registry": false,
-   "manifest": "packages/quantconnect/lean.yaml"
+   "manifest": "packages/quantconnect/lean.yaml",
+   "gh": {
+    "slug": "QuantConnect/Lean",
+    "stars": 21380,
+    "forks": 5199,
+    "open_issues": 254,
+    "pushed_at": "2026-08-27T21:26:20Z",
+    "default_branch": "master",
+    "topics": [
+     "algorithm",
+     "algorithmic-trading-engine",
+     "c-sharp",
+     "finance",
+     "forex",
+     "lean-engine",
+     "options",
+     "python",
+     "quantconnect",
+     "stock-indicators",
+     "trading",
+     "trading-algorithms",
+     "trading-bot",
+     "trading-platform",
+     "trading-strategies"
+    ],
+    "archived": false,
+    "description": "Lean Algorithmic Trading Engine by QuantConnect (Python, C#)",
+    "language": "C#"
+   }
   },
   {
    "id": "quarkfin/qf-lib",
@@ -730,7 +1607,31 @@
    "submitted_by": "maxpitts",
    "performance": null,
    "verified_by_registry": false,
-   "manifest": "packages/quarkfin/qf-lib.yaml"
+   "manifest": "packages/quarkfin/qf-lib.yaml",
+   "gh": {
+    "slug": "quarkfin/qf-lib",
+    "stars": 956,
+    "forks": 137,
+    "open_issues": 12,
+    "pushed_at": "2026-08-24T15:24:17Z",
+    "default_branch": "master",
+    "topics": [
+     "backtesting",
+     "backtesting-frameworks",
+     "backtesting-trading-strategies",
+     "finance",
+     "investment-analysis",
+     "python",
+     "quant",
+     "quantitative-finance",
+     "trading",
+     "trading-simulator",
+     "trading-strategies"
+    ],
+    "archived": false,
+    "description": "Modular Python library that provides an advanced event driven backtester and a set of high quality tools for quantitative finance. Integrated with various data vendors and brokers, supports Crypto, Stocks and Futures.",
+    "language": "Python"
+   }
   },
   {
    "id": "ranaroussi/quantstats",
@@ -751,7 +1652,31 @@
    "submitted_by": "maxpitts",
    "performance": null,
    "verified_by_registry": false,
-   "manifest": "packages/ranaroussi/quantstats.yaml"
+   "manifest": "packages/ranaroussi/quantstats.yaml",
+   "gh": {
+    "slug": "ranaroussi/quantstats",
+    "stars": 7595,
+    "forks": 1229,
+    "open_issues": 31,
+    "pushed_at": "2026-07-20T14:12:56Z",
+    "default_branch": "main",
+    "topics": [
+     "algo-trading",
+     "algorithmic-trading",
+     "algotrading",
+     "finance",
+     "plotting",
+     "python",
+     "quant",
+     "quantitative-analysis",
+     "quantitative-finance",
+     "quantitative-trading",
+     "visualization"
+    ],
+    "archived": false,
+    "description": "Portfolio analytics for quants, written in Python",
+    "language": "Python"
+   }
   },
   {
    "id": "refraction-ray/xalpha",
@@ -772,7 +1697,25 @@
    "submitted_by": "maxpitts",
    "performance": null,
    "verified_by_registry": false,
-   "manifest": "packages/refraction-ray/xalpha.yaml"
+   "manifest": "packages/refraction-ray/xalpha.yaml",
+   "gh": {
+    "slug": "refraction-ray/xalpha",
+    "stars": 2686,
+    "forks": 488,
+    "open_issues": 46,
+    "pushed_at": "2026-07-25T13:45:32Z",
+    "default_branch": "master",
+    "topics": [
+     "ai-agents",
+     "backtest",
+     "finance",
+     "investment",
+     "quantitative-trading"
+    ],
+    "archived": false,
+    "description": "\u57fa\u91d1\u6295\u8d44\u7ba1\u7406\u56de\u6d4b\u5f15\u64ce",
+    "language": "Python"
+   }
   },
   {
    "id": "robertmartin8/pyportfolioopt",
@@ -795,7 +1738,32 @@
    "submitted_by": "maxpitts",
    "performance": null,
    "verified_by_registry": false,
-   "manifest": "packages/robertmartin8/pyportfolioopt.yaml"
+   "manifest": "packages/robertmartin8/pyportfolioopt.yaml",
+   "gh": {
+    "slug": "robertmartin8/PyPortfolioOpt",
+    "stars": 5988,
+    "forks": 1172,
+    "open_issues": 112,
+    "pushed_at": "2026-07-07T21:18:14Z",
+    "default_branch": "main",
+    "topics": [
+     "algorithmic-trading",
+     "covariance",
+     "efficient-frontier",
+     "finance",
+     "financial-analysis",
+     "investing",
+     "investment",
+     "investment-analysis",
+     "portfolio-management",
+     "portfolio-optimization",
+     "python",
+     "quantitative-finance"
+    ],
+    "archived": false,
+    "description": "Financial portfolio optimization in python, including classical efficient frontier, Black-Litterman, Hierarchical Risk Parity",
+    "language": "Jupyter Notebook"
+   }
   },
   {
    "id": "santoshlite/eigenledger",
@@ -816,7 +1784,37 @@
    "submitted_by": "maxpitts",
    "performance": null,
    "verified_by_registry": false,
-   "manifest": "packages/santoshlite/eigenledger.yaml"
+   "manifest": "packages/santoshlite/eigenledger.yaml",
+   "gh": {
+    "slug": "santoshlite/EigenLedger",
+    "stars": 1081,
+    "forks": 135,
+    "open_issues": 6,
+    "pushed_at": "2025-09-14T01:21:40Z",
+    "default_branch": "main",
+    "topics": [
+     "backtesting",
+     "finance",
+     "fintech",
+     "futures",
+     "investment",
+     "investment-analysis",
+     "investment-portfolio",
+     "portfolio-analysis",
+     "portfolio-management",
+     "portfolio-optimization",
+     "python",
+     "quant",
+     "quantitative-analysis",
+     "quantitative-finance",
+     "stock",
+     "stock-data",
+     "stock-market"
+    ],
+    "archived": false,
+    "description": "An Open Source Portfolio Backtesting Engine for Everyone | \u9762\u5411\u6240\u6709\u4eba\u7684\u5f00\u6e90\u6295\u8d44\u7ec4\u5408\u56de\u6d4b\u5f15\u64ce",
+    "language": "Python"
+   }
   },
   {
    "id": "shashankvemuri/finance",
@@ -837,7 +1835,32 @@
    "submitted_by": "maxpitts",
    "performance": null,
    "verified_by_registry": false,
-   "manifest": "packages/shashankvemuri/finance.yaml"
+   "manifest": "packages/shashankvemuri/finance.yaml",
+   "gh": {
+    "slug": "shashankvemuri/Finance",
+    "stars": 4197,
+    "forks": 361,
+    "open_issues": 22,
+    "pushed_at": "2026-03-26T06:24:50Z",
+    "default_branch": "master",
+    "topics": [
+     "algorithmic-trading",
+     "data-science",
+     "finance",
+     "machine-learning",
+     "pandas",
+     "python",
+     "quantitative-finance",
+     "stock",
+     "stock-market",
+     "stocks",
+     "technical-indicators",
+     "trading-strategies"
+    ],
+    "archived": false,
+    "description": "150+ quantitative finance Python programs to help you gather, manipulate, and analyze stock market data",
+    "language": "Python"
+   }
   },
   {
    "id": "shy3130/tick-stock-panel",
@@ -858,7 +1881,40 @@
    "submitted_by": "maxpitts",
    "performance": null,
    "verified_by_registry": false,
-   "manifest": "packages/shy3130/tick-stock-panel.yaml"
+   "manifest": "packages/shy3130/tick-stock-panel.yaml",
+   "gh": {
+    "slug": "shy3130/tick-stock-panel",
+    "stars": 3881,
+    "forks": 901,
+    "open_issues": 42,
+    "pushed_at": "2026-08-27T14:06:44Z",
+    "default_branch": "main",
+    "topics": [
+     "a-stock",
+     "ai-agent",
+     "aigc",
+     "backtesting",
+     "daily",
+     "duckdb",
+     "fastapi",
+     "llm",
+     "polars",
+     "quant",
+     "quantitative-finance",
+     "quantitative-trading",
+     "react",
+     "screener",
+     "self-hosted",
+     "stock",
+     "stock-analysis",
+     "tdx",
+     "tickflow",
+     "tsp"
+    ],
+    "archived": false,
+    "description": "TSP\u81ea\u6258\u7ba1\u3001\u96f6\u8fd0\u7ef4\u7684 A \u80a1\u300c\u9009\u80a1 + \u76d1\u63a7 + \u56de\u6d4b\u300d\u91cf\u5316\u5de5\u4f5c\u53f0 | \u57fa\u4e8e TickFlow \u6570\u636e\u6e90  | LLM\u80fd\u529b\u9a71\u4f7f\u7b56\u7565\u5b9a\u5236+\u4e2a\u80a1\u5206\u6790+\u590d\u76d8 | \u81ea\u7531\u63a5\u5165\u7b2c\u4e09\u65b9\u6570\u636e\u6e90\u4e0e\u4e2a\u6027\u5316\u6269\u5c55\u6570\u636e | \u4e2a\u4eba\u5f00\u6e90 ,\u975e\u7b2c\u4e09\u65b9\u5b98\u65b9\u9879\u76ee",
+    "language": "Python"
+   }
   },
   {
    "id": "simonlin1212/a-stock-data",
@@ -879,7 +1935,34 @@
    "submitted_by": "maxpitts",
    "performance": null,
    "verified_by_registry": false,
-   "manifest": "packages/simonlin1212/a-stock-data.yaml"
+   "manifest": "packages/simonlin1212/a-stock-data.yaml",
+   "gh": {
+    "slug": "simonlin1212/a-stock-data",
+    "stars": 9270,
+    "forks": 1678,
+    "open_issues": 1,
+    "pushed_at": "2026-08-20T05:08:43Z",
+    "default_branch": "main",
+    "topics": [
+     "a-share",
+     "ai-agent",
+     "ai-skill",
+     "china-stocks",
+     "claude-code",
+     "financial-data",
+     "fintech",
+     "investment-research",
+     "llm-tools",
+     "market-data",
+     "python",
+     "quantitative-finance",
+     "stock-market",
+     "trading"
+    ],
+    "archived": false,
+    "description": "A\u80a1\u5168\u6808\u6570\u636e\u5de5\u5177\u5305 \u00b7 \u5341\u4e00\u5c42\u67b6\u6784 \u00b7 54\u7aef\u70b9 \u00b7 19\u6570\u636e\u6e90 \u00b7 \u96f6\u9274\u6743 | Full-stack China A-share data toolkit for AI agents \u2014 11 layers, 54 endpoints, 19 sources, zero-auth",
+    "language": null
+   }
   },
   {
    "id": "stefan-jansen/zipline-reloaded",
@@ -903,7 +1986,19 @@
    "submitted_by": "maxpitts",
    "performance": null,
    "verified_by_registry": false,
-   "manifest": "packages/stefan-jansen/zipline-reloaded.yaml"
+   "manifest": "packages/stefan-jansen/zipline-reloaded.yaml",
+   "gh": {
+    "slug": "stefan-jansen/zipline-reloaded",
+    "stars": 1928,
+    "forks": 329,
+    "open_issues": 44,
+    "pushed_at": "2026-01-06T13:01:54Z",
+    "default_branch": "main",
+    "topics": [],
+    "archived": false,
+    "description": "Zipline, a Pythonic Algorithmic Trading Library",
+    "language": "Python"
+   }
   },
   {
    "id": "superalgos/superalgos",
@@ -924,7 +2019,40 @@
    "submitted_by": "maxpitts",
    "performance": null,
    "verified_by_registry": false,
-   "manifest": "packages/superalgos/superalgos.yaml"
+   "manifest": "packages/superalgos/superalgos.yaml",
+   "gh": {
+    "slug": "Superalgos/Superalgos",
+    "stars": 5628,
+    "forks": 6019,
+    "open_issues": 115,
+    "pushed_at": "2026-08-27T19:02:08Z",
+    "default_branch": "master",
+    "topics": [
+     "algorithmic-trading",
+     "algotrading",
+     "bitcoin-trading",
+     "bitcoin-trading-bots",
+     "crypto",
+     "crypto-trading",
+     "crypto-trading-bots",
+     "crypto-trading-strategies",
+     "cryptocurrencies",
+     "cryptocurrency",
+     "cryptocurrency-trading-bots",
+     "free",
+     "open-source",
+     "quantitative-trading",
+     "trading",
+     "trading-algorithms",
+     "trading-bot",
+     "trading-platform",
+     "trading-strategies",
+     "trading-systems"
+    ],
+    "archived": false,
+    "description": "Free, open-source crypto trading bot, automated bitcoin / cryptocurrency trading software, algorithmic trading bots. Visually design your crypto trading bot, leveraging an integrated charting system, data-mining, backtesting, paper trading, and multi-server crypto bot deployments.",
+    "language": "JavaScript"
+   }
   },
   {
    "id": "ta-lib/ta-lib-python",
@@ -945,7 +2073,26 @@
    "submitted_by": "maxpitts",
    "performance": null,
    "verified_by_registry": false,
-   "manifest": "packages/ta-lib/ta-lib-python.yaml"
+   "manifest": "packages/ta-lib/ta-lib-python.yaml",
+   "gh": {
+    "slug": "TA-Lib/ta-lib-python",
+    "stars": 12216,
+    "forks": 2000,
+    "open_issues": 137,
+    "pushed_at": "2026-07-29T03:37:05Z",
+    "default_branch": "master",
+    "topics": [
+     "finance",
+     "pattern-recognition",
+     "python",
+     "quantitative-finance",
+     "ta-lib",
+     "technical-analysis"
+    ],
+    "archived": false,
+    "description": "Python wrapper for TA-Lib (http://ta-lib.org/).",
+    "language": "Cython"
+   }
   },
   {
    "id": "the-swarm-corporation/autohedge",
@@ -966,7 +2113,31 @@
    "submitted_by": "maxpitts",
    "performance": null,
    "verified_by_registry": false,
-   "manifest": "packages/the-swarm-corporation/autohedge.yaml"
+   "manifest": "packages/the-swarm-corporation/autohedge.yaml",
+   "gh": {
+    "slug": "The-Swarm-Corporation/AutoHedge",
+    "stars": 4299,
+    "forks": 726,
+    "open_issues": 17,
+    "pushed_at": "2026-05-11T05:44:09Z",
+    "default_branch": "main",
+    "topics": [
+     "ai",
+     "blackrock",
+     "finance",
+     "goldmansachs",
+     "hedgefund",
+     "jpmorgan",
+     "ml",
+     "quant",
+     "quantitative-finance",
+     "quantitative-trading",
+     "trading"
+    ],
+    "archived": false,
+    "description": "Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution.",
+    "language": "Python"
+   }
   },
   {
    "id": "thrasher-corp/gocryptotrader",
@@ -987,7 +2158,30 @@
    "submitted_by": "maxpitts",
    "performance": null,
    "verified_by_registry": false,
-   "manifest": "packages/thrasher-corp/gocryptotrader.yaml"
+   "manifest": "packages/thrasher-corp/gocryptotrader.yaml",
+   "gh": {
+    "slug": "thrasher-corp/gocryptotrader",
+    "stars": 3455,
+    "forks": 912,
+    "open_issues": 67,
+    "pushed_at": "2026-08-24T06:03:43Z",
+    "default_branch": "master",
+    "topics": [
+     "algorithmic-trading",
+     "algorithmic-trading-library",
+     "cryptocurrency",
+     "cryptocurrency-trading-bot",
+     "exchange",
+     "go",
+     "golang",
+     "trading-bot",
+     "trading-framework",
+     "trading-platform"
+    ],
+    "archived": false,
+    "description": "A cryptocurrency trading bot and framework supporting multiple exchanges written in Golang.",
+    "language": "Go"
+   }
   },
   {
    "id": "trebornamor/tradingview-machine-learning-gui",
@@ -1008,7 +2202,33 @@
    "submitted_by": "maxpitts",
    "performance": null,
    "verified_by_registry": false,
-   "manifest": "packages/trebornamor/tradingview-machine-learning-gui.yaml"
+   "manifest": "packages/trebornamor/tradingview-machine-learning-gui.yaml",
+   "gh": {
+    "slug": "TreborNamor/TradingView-Machine-Learning-GUI",
+    "stars": 984,
+    "forks": 268,
+    "open_issues": 0,
+    "pushed_at": "2026-08-18T13:50:11Z",
+    "default_branch": "master",
+    "topics": [
+     "algorithmic-trading",
+     "backtesting",
+     "cli",
+     "hyperparameter-optimization",
+     "hyperparameter-tuning",
+     "market-data",
+     "optuna",
+     "python",
+     "quantitative-finance",
+     "ta-lib",
+     "trading-strategy",
+     "tradingview",
+     "websocket"
+    ],
+    "archived": false,
+    "description": "HyperView is a terminal-first TradingView strategy lab for downloading market data, backtesting Python strategies with Pine-like behavior, and optimizing SL/TP parameters.",
+    "language": "Python"
+   }
   },
   {
    "id": "ufund-me/qbot",
@@ -1029,7 +2249,37 @@
    "submitted_by": "maxpitts",
    "performance": null,
    "verified_by_registry": false,
-   "manifest": "packages/ufund-me/qbot.yaml"
+   "manifest": "packages/ufund-me/qbot.yaml",
+   "gh": {
+    "slug": "UFund-Me/Qbot",
+    "stars": 18408,
+    "forks": 2592,
+    "open_issues": 74,
+    "pushed_at": "2026-03-11T12:16:42Z",
+    "default_branch": "main",
+    "topics": [
+     "backtest",
+     "bitcoin",
+     "blockchain",
+     "deep-learning",
+     "fintech",
+     "funds",
+     "machine-learning",
+     "pytrade",
+     "qlib",
+     "quant-trade",
+     "quant-trader",
+     "quantitative-finance",
+     "quantitative-trading",
+     "quantization",
+     "strategies",
+     "trade-bot",
+     "trademarks"
+    ],
+    "archived": false,
+    "description": "[\ud83d\udd25updating ...] AI \u81ea\u52a8\u91cf\u5316\u4ea4\u6613\u673a\u5668\u4eba(\u5b8c\u5168\u672c\u5730\u90e8\u7f72) AI-powered Quantitative Investment Research Platform. \ud83d\udcc3 online docs: https://ufund-me.github.io/Qbot   \u2728 :news: qbot-mini: https://github.com/Charmve/iQuant",
+    "language": "Jupyter Notebook"
+   }
   },
   {
    "id": "whittlem/pycryptobot",
@@ -1050,7 +2300,39 @@
    "submitted_by": "maxpitts",
    "performance": null,
    "verified_by_registry": false,
-   "manifest": "packages/whittlem/pycryptobot.yaml"
+   "manifest": "packages/whittlem/pycryptobot.yaml",
+   "gh": {
+    "slug": "whittlem/pycryptobot",
+    "stars": 2053,
+    "forks": 722,
+    "open_issues": 19,
+    "pushed_at": "2026-03-26T03:53:20Z",
+    "default_branch": "main",
+    "topics": [
+     "backtester",
+     "backtesting",
+     "backtesting-trading-strategies",
+     "binance",
+     "binance-api",
+     "coinbase-pro",
+     "coinbase-pro-api",
+     "cryptocurrency",
+     "kucoin",
+     "kucoin-api",
+     "medium-article",
+     "medium-articles",
+     "python",
+     "python3",
+     "technical-analysis",
+     "telegram-bot",
+     "trading",
+     "trading-bot",
+     "trading-strategies"
+    ],
+    "archived": false,
+    "description": "Python Crypto Bot (PyCryptoBot)",
+    "language": "Python"
+   }
   },
   {
    "id": "zhulinsen/daily-stock-analysis",
@@ -1071,7 +2353,27 @@
    "submitted_by": "maxpitts",
    "performance": null,
    "verified_by_registry": false,
-   "manifest": "packages/zhulinsen/daily-stock-analysis.yaml"
+   "manifest": "packages/zhulinsen/daily-stock-analysis.yaml",
+   "gh": {
+    "slug": "ZhuLinsen/daily_stock_analysis",
+    "stars": 64154,
+    "forks": 53815,
+    "open_issues": 72,
+    "pushed_at": "2026-08-28T04:32:39Z",
+    "default_branch": "main",
+    "topics": [
+     "a-stock",
+     "ai-agent",
+     "aigc",
+     "llm",
+     "quant",
+     "quantitative-finance",
+     "quantitative-trading"
+    ],
+    "archived": false,
+    "description": "LLM \u9a71\u52a8\u7684\u591a\u5e02\u573a\u80a1\u7968\u667a\u80fd\u5206\u6790\u7cfb\u7edf\uff1a\u591a\u6e90\u884c\u60c5\u3001\u5b9e\u65f6\u65b0\u95fb\u3001\u51b3\u7b56\u770b\u677f\u4e0e\u81ea\u52a8\u63a8\u9001\uff0c\u652f\u6301\u96f6\u6210\u672c\u5b9a\u65f6\u8fd0\u884c\u3002  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+    "language": "Python"
+   }
   },
   {
    "id": "zvtvz/zvt",
@@ -1092,7 +2394,39 @@
    "submitted_by": "maxpitts",
    "performance": null,
    "verified_by_registry": false,
-   "manifest": "packages/zvtvz/zvt.yaml"
+   "manifest": "packages/zvtvz/zvt.yaml",
+   "gh": {
+    "slug": "zvtvz/zvt",
+    "stars": 4287,
+    "forks": 1013,
+    "open_issues": 22,
+    "pushed_at": "2026-07-01T09:42:05Z",
+    "default_branch": "master",
+    "topics": [
+     "algorithmic-trading",
+     "backtesting",
+     "cryptocurrency",
+     "fintech",
+     "fundamental-analysis",
+     "machine-learning",
+     "ml",
+     "python",
+     "quant",
+     "quantitative-finance",
+     "quantitative-trading",
+     "stock",
+     "stock-market",
+     "technical-analysis",
+     "trading-bot",
+     "trading-platform",
+     "trading-strategies",
+     "zvt"
+    ],
+    "archived": false,
+    "description": "modular quant framework.",
+    "language": "Python"
+   }
   }
- ]
+ ],
+ "enriched_at": "2026-08-28T05:41:39Z"
 }
