@@ -1,0 +1,140 @@
+{
+ "generated_at": "2026-08-28T04:59:22+00:00",
+ "n": 5,
+ "by_kind": {
+  "execution": 2,
+  "harness": 2,
+  "risk": 1
+ },
+ "by_tier": {
+  "None": 5
+ },
+ "disclaimer": "This registry indexes packages; it does not host, test, endorse or verify them. Performance figures are claims made by their authors. Nothing here is investment advice.",
+ "packages": [
+  {
+   "id": "hummingbot/hummingbot",
+   "namespace": "hummingbot",
+   "name": "hummingbot",
+   "version": "2.9.0",
+   "kind": "execution",
+   "summary": "Framework for automated market making and trading across CEX and DEX venues.",
+   "repo": "https://github.com/hummingbot/hummingbot",
+   "license": "Apache-2.0",
+   "commit": null,
+   "asset_classes": [
+    "crypto"
+   ],
+   "timeframes": [
+    "tick",
+    "1m"
+   ],
+   "record": null,
+   "listing": "third_party_index",
+   "submitted_by": "maxpitts",
+   "performance": null,
+   "verified_by_registry": false,
+   "manifest": "packages/hummingbot/hummingbot.yaml"
+  },
+  {
+   "id": "microsoft/qlib",
+   "namespace": "microsoft",
+   "name": "qlib",
+   "version": "0.9.6",
+   "kind": "harness",
+   "summary": "AI-oriented quant research platform \u2014 data, model training, backtest, portfolio workflow.",
+   "repo": "https://github.com/microsoft/qlib",
+   "license": "MIT",
+   "commit": null,
+   "asset_classes": [
+    "equity"
+   ],
+   "timeframes": [
+    "1d",
+    "1m"
+   ],
+   "record": null,
+   "listing": "third_party_index",
+   "submitted_by": "maxpitts",
+   "performance": null,
+   "verified_by_registry": false,
+   "manifest": "packages/microsoft/qlib.yaml"
+  },
+  {
+   "id": "nautechsystems/nautilus-trader",
+   "namespace": "nautechsystems",
+   "name": "nautilus-trader",
+   "version": "1.222.0",
+   "kind": "execution",
+   "summary": "Production-grade event-driven trading engine in Rust with a Python strategy layer.",
+   "repo": "https://github.com/nautechsystems/nautilus_trader",
+   "license": "LGPL-3.0",
+   "commit": null,
+   "asset_classes": [
+    "equity",
+    "future",
+    "fx",
+    "crypto",
+    "option"
+   ],
+   "timeframes": [
+    "tick",
+    "1m",
+    "1h",
+    "1d"
+   ],
+   "record": null,
+   "listing": "third_party_index",
+   "submitted_by": "maxpitts",
+   "performance": null,
+   "verified_by_registry": false,
+   "manifest": "packages/nautechsystems/nautilus-trader.yaml"
+  },
+  {
+   "id": "robertmartin8/pyportfolioopt",
+   "namespace": "robertmartin8",
+   "name": "pyportfolioopt",
+   "version": "1.5.6",
+   "kind": "risk",
+   "summary": "Portfolio optimisation \u2014 efficient frontier, Black-Litterman, hierarchical risk parity.",
+   "repo": "https://github.com/robertmartin8/PyPortfolioOpt",
+   "license": "MIT",
+   "commit": null,
+   "asset_classes": [
+    "equity"
+   ],
+   "timeframes": [
+    "1d"
+   ],
+   "record": null,
+   "listing": "third_party_index",
+   "submitted_by": "maxpitts",
+   "performance": null,
+   "verified_by_registry": false,
+   "manifest": "packages/robertmartin8/pyportfolioopt.yaml"
+  },
+  {
+   "id": "stefan-jansen/zipline-reloaded",
+   "namespace": "stefan-jansen",
+   "name": "zipline-reloaded",
+   "version": "3.1.1",
+   "kind": "harness",
+   "summary": "Event-driven backtesting engine for Python; the maintained continuation of Zipline.",
+   "repo": "https://github.com/stefan-jansen/zipline-reloaded",
+   "license": "Apache-2.0",
+   "commit": null,
+   "asset_classes": [
+    "equity"
+   ],
+   "timeframes": [
+    "1d",
+    "1m"
+   ],
+   "record": null,
+   "listing": "third_party_index",
+   "submitted_by": "maxpitts",
+   "performance": null,
+   "verified_by_registry": false,
+   "manifest": "packages/stefan-jansen/zipline-reloaded.yaml"
+  }
+ ]
+}

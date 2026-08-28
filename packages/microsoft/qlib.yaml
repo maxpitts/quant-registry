@@ -1,0 +1,14 @@
+name: qlib
+namespace: microsoft
+version: 0.9.6
+kind: harness
+summary: AI-oriented quant research platform — data, model training, backtest, portfolio workflow.
+repo: https://github.com/microsoft/qlib
+license: MIT
+asset_classes: [equity]
+timeframes: [1d, 1m]
+unaffiliated: true
+submitted_by: maxpitts
+description: >
+  End-to-end research framework covering data handling through backtest and allocation.
+  Listed by the registry, not submitted by its author.

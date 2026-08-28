@@ -1,0 +1,31 @@
+name: Rebuild index
+
+on:
+  push:
+    branches: [main]
+    paths: ["packages/**", "build_index.py"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  index:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install pyyaml
+      - run: python3 validate.py packages/
+      - run: python3 build_index.py
+      - name: Commit
+        run: |
+          set -euo pipefail
+          git config user.name  "registry-bot"
+          git config user.email "registry-bot@users.noreply.github.com"
+          git add index.json
+          git diff --cached --quiet && { echo "index unchanged"; exit 0; }
+          git commit -m "rebuild index"
+          git push

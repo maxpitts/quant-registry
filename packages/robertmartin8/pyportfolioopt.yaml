@@ -1,0 +1,16 @@
+name: pyportfolioopt
+namespace: robertmartin8
+version: 1.5.6
+kind: risk
+summary: Portfolio optimisation — efficient frontier, Black-Litterman, hierarchical risk parity.
+repo: https://github.com/robertmartin8/PyPortfolioOpt
+license: MIT
+asset_classes: [equity]
+timeframes: [1d]
+unaffiliated: true
+submitted_by: maxpitts
+description: >
+  Allocation and covariance-estimation toolkit. Non-rival: a shared optimiser does not decay the
+  way a shared entry signal does, which is exactly the layer an open registry indexes well.
+  Listed by the registry, not submitted by its author. Version reflects the release line at the
+  time of listing; check upstream for current.

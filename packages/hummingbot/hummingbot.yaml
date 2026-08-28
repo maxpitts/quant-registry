@@ -1,0 +1,14 @@
+name: hummingbot
+namespace: hummingbot
+version: 2.9.0
+kind: execution
+summary: Framework for automated market making and trading across CEX and DEX venues.
+repo: https://github.com/hummingbot/hummingbot
+license: Apache-2.0
+asset_classes: [crypto]
+timeframes: [tick, 1m]
+unaffiliated: true
+submitted_by: maxpitts
+description: >
+  Connector-based execution framework covering many centralised and decentralised venues.
+  Listed by the registry, not submitted by its author.
